@@ -26,6 +26,6 @@ perrudos = ['punky', 'momesno', 'panke', 'osesno', 'kof' ]
 
 for chara in range(len(perrudos)):
      perrudos[chara] = str(perrudos[chara]) +  ' y chara'    #solo pueden concatenarse datos del mismo tipo, poreso
-                                                            #deben convertirse en datos del mismo tipo mediante funciones de trasformación de datos.  
+                                                            #deben convertirse en datos del mismo tipo mediante funciones de trasformación.  
 
 print(perrudos)
